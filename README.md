@@ -8,6 +8,7 @@
  ### Features: ###
  - LogIn and SignUp 
  - have authentication
+ - drawer
  - order list and history of orders
  - favorite list
  - adding item for sale 
